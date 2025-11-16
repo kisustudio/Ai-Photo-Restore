@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Restorer",
+  "description": "An advanced AI-powered tool to restore, colorize, and enhance old photographs. Upload a photo to remove noise, fix blemishes, and bring memories back to life in vibrant color and high quality.",
+  "requestFramePermissions": []
+}
